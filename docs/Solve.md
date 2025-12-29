@@ -70,8 +70,8 @@ Our Solution: AroundMarket implements a transparent and sustainable fee model to
 | **Official Fee** | `0.20%` | Platform maintenance and security |
 | **Liquidity Fee** | `0.15%` | Reward for Liquidity Providers (LPs) |
 | **Oracle Fee** | `0.10%` | Reward for data providers and verifiers |
-| **Lucky Fee** | `0.10%` | Distributed via the LuckyPool lottery |
-| **Creator Fee** | `0.05%` | Incentive for market originators |
+| **Lucky Fee** | `0.075%` | Distributed via the LuckyPool lottery |
+| **Creator Fee** | `0.075%` | Incentive for market originators |
 
 ---
 
